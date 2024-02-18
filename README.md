@@ -34,18 +34,18 @@ Splitting data, implementing Ridge regression, and evaluating model performance.
 
 Skills Demonstrated
 
-Data Collection and Cleaning
+-Data Collection and Cleaning
 
-Data Exploration and Analysis
+-Data Exploration and Analysis
 
-Data Visualization
+-Data Visualization
 
-Machine Learning and Regression Modeling
+-Machine Learning and Regression Modeling
 
-Feature Engineering
+-Feature Engineering
 
-Pipeline Construction
+-Pipeline Construction
 
-Model Evaluation and Refinement
+-Model Evaluation and Refinement
 
-Programming with Python and JupyterLite Environment
+-Programming with Python and JupyterLite Environment
