@@ -32,7 +32,8 @@ Module 5: Model Evaluation and Refinement
 Splitting data, implementing Ridge regression, and evaluating model performance.
 
 
-Skills Demonstrated
+
+Skills Demonstrated:
 
 -Data Collection and Cleaning
 
