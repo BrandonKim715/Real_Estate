@@ -43,8 +43,6 @@ Skills Demonstrated:
 
 -Machine Learning and Regression Modeling
 
--Feature Engineering
-
 -Pipeline Construction
 
 -Model Evaluation and Refinement
